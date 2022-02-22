@@ -1,2 +1,3 @@
 #忽略test文件夹
 test/
+node_modules/
